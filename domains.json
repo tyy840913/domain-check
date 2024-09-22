@@ -10,5 +10,5 @@
   { "domain": "wosken.cloudns.be", "registrationDate": "2024-08-25", "expirationDate": "2099-12-29", "system": "cloudns.com", "systemURL": "https://cloudns.com" },
   { "domain": "wosken.cloudns.ch", "registrationDate": "2024-08-25", "expirationDate": "2099-12-29", "system": "cloudns.com", "systemURL": "https://cloudns.com" },
   { "domain": "woskee.freemyip.com", "registrationDate": "2024-08-16", "expirationDate": "2099-12-29", "system": "freemyip.com", "systemURL": "https://freemyip.com" },
-  { "domain": "woskee.com.mp", "registrationDate": "2024-09-20", "expirationDate": "2024-12-19", "system": "registy.com.mp", "systemURL": "https://registy.com.mp" }
+  { "domain": "woskee.com.mp", "registrationDate": "2024-09-20", "expirationDate": "2024-12-19", "system": "registy.com.mp", "systemURL": "https://www.registry.com.mp/" }
 ]
