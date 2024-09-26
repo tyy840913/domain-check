@@ -10,5 +10,7 @@
   { "domain": "wosken.cloudns.be", "registrationDate": "2024-08-25", "expirationDate": "2099-12-29", "system": "cloudns.com", "systemURL": "https://cloudns.com" },
   { "domain": "wosken.cloudns.ch", "registrationDate": "2024-08-25", "expirationDate": "2099-12-29", "system": "cloudns.com", "systemURL": "https://cloudns.com" },
   { "domain": "woskee.freemyip.com", "registrationDate": "2024-08-16", "expirationDate": "2099-12-29", "system": "freemyip.com", "systemURL": "https://freemyip.com" },
+  { "domain": "woskee.san.tc", "registrationDate": "2024-09-26", "expirationDate": "2099-12-29", "system": "site.ac", "systemURL": "https://www.site.ac" },
+  { "domain": "woskee.app.tc", "registrationDate": "2024-09-26", "expirationDate": "2099-12-29", "system": "site.ac", "systemURL": "https://www.site.ac" },
   { "domain": "woskee.freeddns.org", "registrationDate": "2024-09-22", "expirationDate": "2099-12-29", "system": "dynu.com", "systemURL": "https://dynu.com" }
 ]
